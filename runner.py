@@ -19,9 +19,7 @@
 # LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
-"""Map Reduce Framework for Python (Task1, DM2016)
-
-https://project.las.ethz.ch/task1
+"""Map Reduce Framework for Python
 
 1. The framework first loads the python source code specified in `sourcefile`.
   The source should contain a `mapper` and a `reducer` function.
